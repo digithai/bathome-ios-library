@@ -1,2 +1,2 @@
 # bathome-ios-library
-iOS pod for B@Home library
+iOS podspec for B@Home library 
